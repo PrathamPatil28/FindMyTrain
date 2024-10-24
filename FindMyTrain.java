@@ -8,7 +8,7 @@ public class FindMyTrain {
     public static void main(String[] args) {
 
         //First Main trainSystem object
-        TrainSystem system = new TrainSystem();
+        TrainSystem system = new TrainSystem(); 
 
         //creating Train object to add a train and there name
         Train train1 = new Train("000333", "Duranto Exp","Express");
